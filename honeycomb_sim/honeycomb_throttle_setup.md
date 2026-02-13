@@ -1,4 +1,4 @@
-Here is the refined, up-to-date guidance for setting up the **Honeycomb Bravo Throttle Quadrant** autopilot panel using **FlyWithLua** in **X-Plane 12**, based on the most reliable community solution.
+Guidance for setting up the **Honeycomb Bravo Throttle Quadrant** autopilot panel using **FlyWithLua** in **X-Plane 12**, based on the most reliable community solution.
 
 The **best plugin** for this (especially on Mac/Apple Silicon, but also works on Windows/Linux for many users) is the **Honeycomb Bravo Plugin** by Jorge Uvo. It handles the autopilot knobs (IAS/CRS/HDG/VS/ALT), right encoder (inc/dec), LEDs, and aircraft-specific profiles automatically — without relying on the official Honeycomb Configurator or Aerosoft AFC Bridge (which often cause conflicts, especially on Mac).
 
