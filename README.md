@@ -1,2 +1,0 @@
-# aviation
-aviation artifacts
