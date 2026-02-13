@@ -21,8 +21,8 @@ https://forums.x-plane.org/files/file/89635-honeycomb-bravo-plugin/
    Download the latest from: https://forums.x-plane.org/files/file/82888-flywithlua-ng-next-generation-plus-edition-for-x-plane-12-win-lin-mac/  
    Unzip and place the `FlyWithLua` folder into:  
    `X-Plane 12/Resources/plugins/`  
-   Launch X-Plane once to activate.
-   Open terminal run the command: `xattr -cr ~/X-Plane\ 12/Resources/plugins/FlyWithLua/`
+   Launch X-Plane once to activate. If you get an error,
+   open terminal, run the command: `xattr -cr ~/X-Plane\ 12/Resources/plugins/FlyWithLua/`
 
 2. **Remove conflicting software** (critical to avoid issues):  
    - Delete any **AFC Bridge** plugin folder (from Aerosoft/Honeycomb Configurator).  
