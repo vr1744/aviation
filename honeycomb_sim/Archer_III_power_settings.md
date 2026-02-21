@@ -1,10 +1,8 @@
-==============================================================
-                 **PIPER ARCHER III – QUICK REFERENCE**
-                        *Pitch & Power Settings*
-                           *5 × 8 Kneeboard Card*
-==============================================================
 
-## --------------------------- Power Seetings-----------------------
+# PIPER ARCHER III – QUICK REFERENCE
+## Pitch & Power Settings*
+
+## --------------------------- Power Seetings----------------------
 
 ### **TAKEOFF & CLIMB**
 - **Takeoff Roll** .......... Full throttle · Rotate 7° up · 55 KIAS  
@@ -23,8 +21,6 @@
 - **Base** .................. 1700–1800 RPM · Slight down · 80 KIAS  
 - **Final** ................. 1500–1700 RPM · Nose‑down · 70 KIAS (flaps)
 
----
-
 ## -------------------------- IFR Approach-----------------------
 
 ### **IFR – PRECISION APPROACH (ILS / LPV)**
@@ -42,4 +38,3 @@
 ### **CIRCLING**
 - **Circling Maneuver** ..... 2000–2200 RPM · Level · 80–90 KIAS
 
-==============================================================
